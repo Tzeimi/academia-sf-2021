@@ -20,6 +20,17 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>PotentialLiability__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Priority</picklist>
         <values>
             <fullName>High</fullName>
@@ -32,6 +43,21 @@
         <values>
             <fullName>Medium</fullName>
             <default>true</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Product__c</picklist>
+        <values>
+            <fullName>DS</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>GC1020</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Switch</fullName>
+            <default>false</default>
         </values>
     </picklistValues>
     <picklistValues>
@@ -62,6 +88,36 @@
         </values>
         <values>
             <fullName>Performance</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>SLAViolation__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Stage__c</picklist>
+        <values>
+            <fullName>Etapa 1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Etapa 2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Etapa 3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Etapa 4</fullName>
             <default>false</default>
         </values>
     </picklistValues>
