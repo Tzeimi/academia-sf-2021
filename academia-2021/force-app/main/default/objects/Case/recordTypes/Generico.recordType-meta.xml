@@ -48,7 +48,11 @@
     <picklistValues>
         <picklist>Product__c</picklist>
         <values>
-            <fullName>GC1020</fullName>
+            <fullName>DS</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Switch</fullName>
             <default>false</default>
         </values>
     </picklistValues>
@@ -110,6 +114,33 @@
         </values>
         <values>
             <fullName>Etapa 4</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Sub_categoria__c</picklist>
+        <values>
+            <fullName>1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>4</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>5</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>6</fullName>
             <default>false</default>
         </values>
     </picklistValues>

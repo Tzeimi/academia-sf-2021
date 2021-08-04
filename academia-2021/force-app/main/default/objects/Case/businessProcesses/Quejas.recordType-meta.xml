@@ -46,6 +46,21 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>Product__c</picklist>
+        <values>
+            <fullName>DS</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>GC1020</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Switch</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Reason</picklist>
         <values>
             <fullName>Breakdown</fullName>
@@ -88,6 +103,25 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>Stage__c</picklist>
+        <values>
+            <fullName>Etapa 1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Etapa 2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Etapa 3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Etapa 4</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Sub_categoria__c</picklist>
         <values>
             <fullName>1</fullName>
@@ -111,6 +145,37 @@
         </values>
         <values>
             <fullName>6</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Switch__c</picklist>
+        <values>
+            <fullName>Cartuchos</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Joycons</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pantalla</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pantalla DS</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sticks</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wi-Fi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wi-Fi DS</fullName>
             <default>false</default>
         </values>
     </picklistValues>
