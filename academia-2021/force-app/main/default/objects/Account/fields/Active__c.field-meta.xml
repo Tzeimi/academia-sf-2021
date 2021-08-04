@@ -5,7 +5,6 @@
     <label>Active</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
-    <trackHistory>true</trackHistory>
     <type>Picklist</type>
     <valueSet>
         <valueSetDefinition>
@@ -19,21 +18,6 @@
                 <fullName>Yes</fullName>
                 <default>false</default>
                 <label>Yes</label>
-            </value>
-            <value>
-                <fullName>Posible</fullName>
-                <default>false</default>
-                <label>Posible</label>
-            </value>
-            <value>
-                <fullName>Test</fullName>
-                <default>false</default>
-                <label>Test</label>
-            </value>
-            <value>
-                <fullName>No Test</fullName>
-                <default>false</default>
-                <label>No Test</label>
             </value>
         </valueSetDefinition>
     </valueSet>
