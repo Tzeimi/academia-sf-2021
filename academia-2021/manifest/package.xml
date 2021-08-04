@@ -17,5 +17,11 @@
         <name>CustomField</name>
         
     </types>
+
+    <types>
+        <members>CaseStatus</members>
+         <name>StandardValueSet</name>
+
+    </types>
     <version>51.0</version>
 </Package>
