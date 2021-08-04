@@ -4,5 +4,9 @@
         <members>Account</members>
         <name>CustomObject</name>
     </types>
+     <types>
+        <members>Case.Devolucion</members>
+        <name>RecordType</name>
+    </types>
     <version>51.0</version>
 </Package>
