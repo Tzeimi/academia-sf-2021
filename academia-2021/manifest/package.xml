@@ -8,6 +8,10 @@
         
     </types>
     <types>
+        <members>Case</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
 
         <members>Case.Switch__c</members>
         <name>CustomField</name>
