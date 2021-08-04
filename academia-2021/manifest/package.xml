@@ -3,11 +3,15 @@
 
      <types>
         <members>Case.Generico</members>
-        <name>RecordType</name>
-    </types>
-    <types>
         <members>Case.Soporte_Tecnico</members>
         <name>RecordType</name>
+        
+    </types>
+    <types>
+
+        <members>Case.Switch__c</members>
+        <name>CustomField</name>
+        
     </types>
     <version>51.0</version>
 </Package>
