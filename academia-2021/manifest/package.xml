@@ -3,7 +3,9 @@
   
   <types>
     <name>CustomField</name>
-   
+    
+    <members>Case.Motivo_de_la_devolucion__c</members>
+
     <members>Case.AccountId</members>
     <members>Case.AssetId</members>
     <members>Case.Backup_Agent__c</members>
@@ -56,7 +58,6 @@
     <members>Case.AllOpenCases</members>
     <members>Case.MyCases</members>
     <members>Case.MyOpenCases</members>
-    <members>Case.Quejas_Case</members>
   </types>
   <types>
     <name>RecordType</name>
