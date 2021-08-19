@@ -74,5 +74,9 @@
     <name>StandardValueSet</name>
     <members>CaseStatus</members>
   </types>
+  <types>
+    <name>Contract</name>
+    <members></members>
+  </types>
   <version>52.0</version>
 </Package>
