@@ -1,8 +1,5 @@
 comentarios
 Comentario 3:28
-<<<<<<< HEAD
 comentario 3:36
-=======
-Comentario 3:33
->>>>>>> bc35afbd36265d4140421db20b416b7da92303e9
 comentario 3:42
+comentario 3:53
