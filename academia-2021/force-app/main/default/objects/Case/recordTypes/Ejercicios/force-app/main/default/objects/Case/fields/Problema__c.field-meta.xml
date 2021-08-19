@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Problema__c</fullName>
+    <externalId>false</externalId>
+    <label>Problema</label>
+    <required>true</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Product__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Pantalla</fullName>
+                <default>false</default>
+                <label>Pantalla</label>
+            </value>
+            <value>
+                <fullName>Joycons</fullName>
+                <default>false</default>
+                <label>Joycons</label>
+            </value>
+            <value>
+                <fullName>Wi-Fi</fullName>
+                <default>false</default>
+                <label>Wi-Fi</label>
+            </value>
+            <value>
+                <fullName>Cartuchos</fullName>
+                <default>false</default>
+                <label>Cartuchos</label>
+            </value>
+            <value>
+                <fullName>Sticks</fullName>
+                <default>false</default>
+                <label>Sticks</label>
+            </value>
+            <value>
+                <fullName>Pantalla DS</fullName>
+                <default>false</default>
+                <label>Pantalla DS</label>
+            </value>
+            <value>
+                <fullName>Wi-Fi DS</fullName>
+                <default>false</default>
+                <label>Wi-Fi DS</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>DS</controllingFieldValue>
+            <valueName>Sticks</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>DS</controllingFieldValue>
+            <valueName>Pantalla DS</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>DS</controllingFieldValue>
+            <valueName>Wi-Fi DS</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Switch</controllingFieldValue>
+            <valueName>Pantalla</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Switch</controllingFieldValue>
+            <valueName>Joycons</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Switch</controllingFieldValue>
+            <valueName>Wi-Fi</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Switch</controllingFieldValue>
+            <valueName>Cartuchos</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>
