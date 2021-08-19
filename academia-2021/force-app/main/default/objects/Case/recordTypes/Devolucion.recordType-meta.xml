@@ -5,6 +5,17 @@
     <businessProcess>Devolución</businessProcess>
     <label>Devolución</label>
     <picklistValues>
+        <picklist>Motivo_de_la_devolucion__c</picklist>
+        <values>
+            <fullName>Producto averiado</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Producto incorrecto</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Origin</picklist>
         <values>
             <fullName>Email</fullName>

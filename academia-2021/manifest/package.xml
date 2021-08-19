@@ -69,10 +69,17 @@
     <name>BusinessProcess</name>
     <members>Case.Devolución</members>
     <members>Case.Soporte Técnico</members>
+     <members>Case.Genérico</members>
+    
   </types>
   <types>
     <name>StandardValueSet</name>
     <members>CaseStatus</members>
+  </types>
+
+  <types>
+  <members>Contract</members>
+  <name>CustomObject</name>
   </types>
   <version>52.0</version>
 </Package>
