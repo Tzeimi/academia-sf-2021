@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Motivo_de_la_devolucion__c</fullName>
+    <externalId>false</externalId>
+    <label>Motivo de la devolución</label>
+    <required>true</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Producto averiado</fullName>
+                <default>false</default>
+                <label>Producto averiado</label>
+            </value>
+            <value>
+                <fullName>Producto incorrecto</fullName>
+                <default>false</default>
+                <label>Producto incorrecto</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
