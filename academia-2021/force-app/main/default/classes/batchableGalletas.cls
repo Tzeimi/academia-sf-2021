@@ -15,7 +15,7 @@ public class batchableGalletas implements Database.Batchable<sObject> {
          delete records;
     }
     public void finish(Database.BatchableContext bc){
-       system.debug('se han eliminado las oportunidades');
+       system.debug('se han eliminado las oportunidades ');
     }
 
 }
